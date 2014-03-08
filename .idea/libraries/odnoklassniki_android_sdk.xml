@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="odnoklassniki-android-sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/odnoklassniki-android-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
