@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6881F">
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="login"
+        android:padding="15dp"
+        android:background="?attr/colorPrimary"
+        android:textColor="#FFF"
+        android:onClick="onClick"
+        android:layout_centerInParent="true" />
+</RelativeLayout>
